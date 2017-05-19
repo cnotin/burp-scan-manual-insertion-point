@@ -1,5 +1,5 @@
 /*
-Burp SniperScan Extension
+Scan manual insertion point
 
 MIT License
 Copyright (c) 2017 Clément Notin / @cnotin
@@ -35,7 +35,7 @@ public class BurpExtender implements IBurpExtender, IContextMenuFactory {
 
 	public void registerExtenderCallbacks(IBurpExtenderCallbacks iBurpExtenderCallbacks) {
 		callbacks = iBurpExtenderCallbacks;
-		callbacks.setExtensionName("Sniper scan");
+		callbacks.setExtensionName("Scan manual insertion point");
 		callbacks.registerContextMenuFactory(this);
 	}
 

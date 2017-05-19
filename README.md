@@ -1,4 +1,4 @@
-# Sniper scan
+# Scan manual insertion point
 
 ## Description
 This Burp extension lets the user select a region of a request (typically a parameter value), and via the context menu do an active scan of just the insertion point defined by that selection.
