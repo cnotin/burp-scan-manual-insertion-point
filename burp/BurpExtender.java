@@ -2,7 +2,7 @@
 Burp SniperScan Extension
 
 MIT License
-Copyright (c) 2017 Clément Notin / @cnotin
+Copyright (c) 2017 ClÃ©ment Notin / @cnotin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
