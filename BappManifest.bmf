@@ -1,0 +1,12 @@
+Uuid: ca7ee4e746b54514a0ca5059329e926f
+ExtensionType: 1
+Name: Scan manual insertion point
+RepoName: scan-manual-insertion-point
+ScreenVersion: 0.1
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: False
+Author: Clément Notin @cnotin
+ShortDescription: Do an active scan of just the insertion point defined by a selection in the UI.
+EntryPoint: build/libs/scan-manual-insertion-point-all.jar
+BuildCommand: gradle fatJar
